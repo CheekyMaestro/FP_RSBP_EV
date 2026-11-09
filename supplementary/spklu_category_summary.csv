@@ -1,0 +1,26 @@
+﻿dimension,category,n_stations,pct
+provider_type,PLN / SPKLU network,1876,61.9
+provider_type,Independent CPO,716,23.6
+provider_type,Automaker / dealership,405,13.4
+provider_type,Other / unknown,32,1.1
+location_group,Utility (PLN site),776,25.6
+location_group,Retail & Commercial,690,22.8
+location_group,Other / Unclassified,659,21.8
+location_group,Office & Residential,314,10.4
+location_group,Hospitality,215,7.1
+location_group,Public & Civic,206,6.8
+location_group,Transport corridor,169,5.6
+location_type,PLN / Utility facility,776,25.6
+location_type,Other / Unclassified,659,21.8
+location_type,Auto dealer / Showroom,409,13.5
+location_type,Hotel / Resort,215,7.1
+location_type,Office / Commercial bldg,202,6.7
+location_type,Rest area / Toll,149,4.9
+location_type,Mall / Shopping,141,4.7
+location_type,Retail / F&B,140,4.6
+location_type,Residential / Apartment,112,3.7
+location_type,Government office,78,2.6
+location_type,Public space / Tourism,59,1.9
+location_type,Hospital / Health,48,1.6
+location_type,Campus / Education,21,0.7
+location_type,Airport / Port / Transit,20,0.7
